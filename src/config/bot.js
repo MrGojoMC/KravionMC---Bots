@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "VoltharisMC Network", // required by Discord API, not shown in the client
-        state: "VoltharisMC.net",     // this is what people actually see
+        state: "voltharismc.wheily.xyz",     // this is what people actually see
         type: 5,               // Custom
       },
     ],
